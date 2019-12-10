@@ -1,0 +1,19 @@
+{
+  "name": "node-mongo-crud",
+  "version": "1.0.0",
+  "description": "A Node, Mongo and base CRUD app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oregand/node-mongo-crud.git"
+  },
+  "author": "davidoregan91@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oregand/node-mongo-crud/issues"
+  },
+  "homepage": "https://github.com/Oregand/node-mongo-crud#readme"
+}
